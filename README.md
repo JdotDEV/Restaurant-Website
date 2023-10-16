@@ -3,11 +3,11 @@ Responsive Restaurant Website - A dynamic web application for restaurants, offer
 
 # Responsive Restaurant Website
 
-![https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/mockup.png](https://jdotdev.github.io/projects/karma-lounge)
+![Project Image](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/mockup.png)
 
 > An aesthetically pleasing and user-friendly web application for restaurants, featuring reservation booking, menu presentation, a photo gallery, blogs, and responsive design.
 
-[Live Demo](link-to-live-demo) | [Report](link-to-project-report)
+[Live Demo](https://jdotdev.github.io/projects/karma-lounge/) | [Project Report](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/WT-Minor-Project-Report.pdf)
 
 ---
 
@@ -17,7 +17,6 @@ Responsive Restaurant Website - A dynamic web application for restaurants, offer
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -51,41 +50,39 @@ The project was created as part of an academic endeavor at Indus Institute of Te
 - PHP
 - Bootstrap
 - jQuery
+- Animate CSS
+- Hamburger CSS
 - MySQL (for the reservation system)
-- [Other technologies used in your project]
+- Other Open Source libraries
 
 ---
 
 ## Installation
 
-1. Clone the repository: `git clone [repository-url]`
-2. [Add any specific installation instructions for your project]
+1. Clone the repository: `git clone https://github.com/JdotDEV/Restaurant-Website.git`
 
----
-
-## Usage
-
-[Provide clear instructions on how to use your project]
 
 ---
 
 ## Screenshots
 
-![Screenshot 1](screenshot-1-url)
-![Screenshot 2](screenshot-2-url)
-![Screenshot 3](screenshot-3-url)
+![Screenshot 1](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/homepage.png)
+![Screenshot 3](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/menupage.png)
+![Screenshot 4](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/About-us-page.png)
+![Screenshot 5](https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/blogpage.png)
 
 ---
 
 ## Contributing
 
-[Explain how others can contribute to your project, if applicable]
+
 
 ---
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
 
 [Include your actual license file and any other relevant information]
 
