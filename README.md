@@ -3,7 +3,7 @@ Responsive Restaurant Website - A dynamic web application for restaurants, offer
 
 # Responsive Restaurant Website
 
-![karma-lounge/images/mockup.png](https://jdotdev.github.io/projects/karma-lounge)
+![https://raw.githubusercontent.com/JdotDEV/Restaurant-Website/main/karma-lounge/images/mockup.png](https://jdotdev.github.io/projects/karma-lounge)
 
 > An aesthetically pleasing and user-friendly web application for restaurants, featuring reservation booking, menu presentation, a photo gallery, blogs, and responsive design.
 
